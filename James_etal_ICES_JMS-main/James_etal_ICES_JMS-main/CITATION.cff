@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data for James et al. "Widespread seagrass die-off
+  has no legacy effect on basal resource use of
+  seagrass food webs in Florida Bay, USA."
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: W. Ryan James
+  - given-names: Rolando O. Santos
+  - given-names: Jonathan R. Rodemann
+  - given-names: Ryan J. Rezek
+  - given-names: Zachary W. Fratto
+  - given-names: Bradley T. Furman
+  - given-names: Margaret O. Hall
+  - given-names: Christopher R. Kelble
+  - given-names: Jennifer S. Rehage
+  - given-names: James A. Nelson
